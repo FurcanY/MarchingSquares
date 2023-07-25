@@ -4,7 +4,7 @@
 ## Bu projemde Marching Squares Algoritmasi ile her bir ayarini degistirebildigimiz bir sekil ciziyoruz. :fire:
 
 ## :point_right: Resime Tıklayarak Videoya gidebilirsiniz.
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=q89COaqWfaI&ab_channel=FurkanY)](https://github.com/FurcanY/HyperCasual-ShopSystem/assets/114299899/09906c54-ee53-4ab4-9384-0c05e38705d0)
+[![IMAGE ALT TEXT HERE](https://github.com/FurcanY/HyperCasual-ShopSystem/assets/114299899/09906c54-ee53-4ab4-9384-0c05e38705d0)](https://www.youtube.com/watch?v=q89COaqWfaI&ab_channel=FurkanY)
 ## Marching Squares Algoritmasındaki çizim durumlarını gösteren bir resim.
 <img src="https://github.com/FurcanY/HyperCasual-ShopSystem/assets/114299899/03cfb93a-fd64-4a29-b966-213b006ea8fc"  width="720" height="500"  />
 
