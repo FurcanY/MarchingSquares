@@ -22,7 +22,7 @@
 ### :star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
 ### Sıklık Oranı : Çizilen Şekilde ne kadar boşluk olacağını ayarlar. Bu oranı 100 yaparsak hiçbir şekilde boşluk kalmaz.
 ### Baslangic Noktasi X ve Baslangic Noktasi Y : bu koordinatlar çizimin nereden başlayacağını ayarlar. 0,0 noktasi formun sol üst köşesi olacaktır.
-### Noktalar Arasi Uzaklik : Marching Squares Algoritmasinda çizim yapabilmek için noktalara başvurulur. ( [Algoritma Dökümanı İçin Tıklayınız.](https://github.com/FurcanY/MarchingSquares/blob/master/MarchingSquares/MarchingSquares/Document/MarchingSquaresAlgoritmasi.pdf). Bu noktaların arasındakı uzaklığı ayarlayan değişkendir.
+### Noktalar Arasi Uzaklik : Marching Squares Algoritmasinda çizim yapabilmek için noktalara başvurulur. ( [Algoritma Dökümanı İçin Tıklayınız.](https://github.com/FurcanY/MarchingSquares/blob/master/MarchingSquares/MarchingSquares/Document/MarchingSquaresAlgoritmasi.pdf) ). Bu noktaların arasındakı uzaklığı ayarlayan değişkendir.
 ### Y Ekseni Nokta Sayısı : Y Ekseninde toplam kaç tane nokta olduğunu tutan değişkendir.
 ### X Ekseni Nokta Sayısı : X Ekseninde toplam kaç tane nokta olduğunu tutan değişkendir.
 ### :star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2::star2:
